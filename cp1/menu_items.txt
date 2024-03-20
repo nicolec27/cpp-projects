@@ -1,0 +1,11 @@
+McDonalds breakfast McMuffin 1 100 A nice muffin for breakfast
+McDonalds breakfast McEggs 2 50 Some good eggs for breakfast
+McDonalds lunch burger 3 300 A large burger
+TacoBell lunch taco 2 250 Good taco with some sides
+Panera lunch soup 5 600 Yum brocolli cheddar
+ChikFilA lunch nuggets 2 300 nuggets with the sauce
+Panera breakfast BEC 3 1000 bacon egg and cheese
+ChikFilA lunch fries 4 3090 soggy waffle fries
+BurgerKing breakfast pancakes 3 100 chocolate chip
+ChikFilA dinner bread 50 2000 just the bun
+McDonalds lunch burger 5 300 a large burger

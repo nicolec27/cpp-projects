@@ -1,0 +1,10 @@
+1 McDonalds 607-555-1212 22 Elm St.; Vestal, NY; 13850
+1 Panera 501-123-4563 6 Old Post Rd.; New York, NY; 12561
+4 McDonalds 401-777-1234 144 Heart Attack Way; Wakefield, RI; 02879
+6 TacoBell 315-123-9876 13 Main St.; Syracuse, NY; 13201
+2 Hardee’s 111-222-3333 123 Four Five St.; Seven Eight, CA; 00000
+4 TacoBell 314-159-2653 81 Ash St.; Fall River, MA; 02717
+7 Panera 123-456-7890 1000 Chestnut St.; Binghamton, NY; 13905
+15 ChikFilA 777-777-7777 0 Garden Rd.; Anchorage, Alaska; 14793
+2 ChikFilA 555-666-7777 666 Demon Avenue; Beverly Hills, CA; 66666
+5 BurgerKing 111-111-1111 111 Hello World St.; New Programmer, CS; 11111

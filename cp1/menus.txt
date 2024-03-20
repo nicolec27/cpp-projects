@@ -1,0 +1,12 @@
+McDonalds breakfast
+McDonalds lunch
+TacoBell lunch
+McDonalds dinner
+TacoBell late-night
+McDonalds lunch
+McDonalds late-night
+McDonalds snacks
+Panera lunch
+Panera breakfast
+ChikFilA lunch
+Popeyes lunch
