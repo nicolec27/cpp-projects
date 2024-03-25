@@ -1,0 +1,20 @@
+Max Heap (As Vector) - Cravings
+    - Methods
+        - insert / add - add element to the end of the vector (push_back)
+        - heapify - make sure the heap is in valid order
+        - swap - swap elements in the heap
+
+Unordered Map - Craving to Index (Craving = Pizza, Index In Heap = 1)
+    - This is a built in data structure
+    - Your task is to make sure that when you modify the heap, that you modify the unordered map accordingly
+
+Users - Graph
+    - Properties
+        - Max Heap of Cravings
+        - Unordered Map (Craving to Index)
+        - List of Friends
+        - Reccommended (Vector of Reccommended Restaurants)
+
+    - Methods
+        - BFS (eat) - perform a BFS over friends of distance k 
+        - Add / Remove Friend - insert pointer to user in vector
